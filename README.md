@@ -7,11 +7,10 @@ Created using [Blender](https://www.blender.org/) by simply manipulating and edi
 
 ## Model Images
 
-![Model T Mimic Front Left](/Model%Images/Model%T%Mimic%FL.png)
+![Model T Mimic Front Left](/Model%20Images/Model%20T%20Mimic%20FL.png)
 
-![Model T Mimic Front](/Model%Images/Model%T%Mimic%F.png)
+![Model T Mimic Front](/Model%20Images/Model%20T%20Mimic%20F.png)
 
-![Model T Mimic BackLeft](/Model%Images/Model%T%Mimic%BL.png)
+![Model T Mimic BackLeft](/Model%20Images/Model%20T%20Mimic%20BL.png)
 
-![Model T Mimic Back](/Model%Images/Model%T%Mimic%B.png)
-
+![Model T Mimic Back](/Model%20Images/Model%20T%20Mimic%20B.png)
